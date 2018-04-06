@@ -1,0 +1,16 @@
+body {
+    background-color: #E9EBEE;
+    font-family: Lato;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+button {
+    border-radius: 6px;
+    margin: auto 10px;
+    background-color: #4267B2;
+    color: white;
+    padding: 5px;
+    width: 45px;
+    font-size: 22px;
+}
